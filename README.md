@@ -1,15 +1,16 @@
  <h2> Hey there! 👋 I'm Hemendra Maheta.</h2>
- ***
-:heart_eyes: Pronouns: He/His <br>       <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
+ <br/>
+ 
+ <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 
 <h3> &nbsp;About Me </h3>  
 
-- 🙂 &nbsp; Exploring new technologies, developing software solutions and learning data structures and algorithms.
-- 🎓 &nbsp; Learning Full Stack Web Development, MERN stack, Javascript and its frameworks <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Masai Schook remotely.
+- 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
+- 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks at Masai School
 - 💼 &nbsp; I aspire to work as a full stack web developer.
-- 🌱 &nbsp; Learning more about AWS, MySql, Python and Typscript.
-- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to Contribute in Opne source Projects<br>
-- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together learn new things.
+- 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
+- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Contribute in Opne source Projects<br>
+- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together learn new things.
 <br/>
 - ⚡ Fun fact: Addicted to Code, Coffee and Chess.:smile:
 
@@ -22,7 +23,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux)
+<!--   ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux) -->
 
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -32,11 +33,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom)
+<!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom) -->
 <br/>
  <div>
 <h3>⚙️ GitHub Analytics</h3>
-<a href="https://github.com/Afzal95">
+<a href="https://github.com/hmehta051">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afzal95&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal95&theme=buefy&layout=compact" />
 </a>
