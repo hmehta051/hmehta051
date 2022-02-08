@@ -38,37 +38,21 @@
  <div>
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/hmehta051">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afzal95&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal95&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmehta051&show_icons=true&theme=radical" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&theme=buefy&layout=compact" /> -->
 </a>
  </div>
 <br/>
 <h3>&nbsp;Visit my portfolio </h3>
-&nbsp;&nbsp;<a href="https://afzal95.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
+&nbsp;&nbsp;<a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/afzalkh95/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Afzal%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/afzalkh_95" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Afzal%20Ahmad-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:afzalahmad.me@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Afzal%20Ahmad-blue?style=flat-square&logo=gmail"></a>
+<a href="www.linkedin.com/in/hemendramaheta" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemendra%20Maheta-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/hmehta051" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hemendra%20Maheta-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:hmehta051@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Hemendra%20Maheta-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-#### &nbsp;&nbsp; Thank you for stopping by.
+#### &nbsp;&nbsp; Thank you for visiting my profile.
 
-⭐️ From [Afzal Ahmad](https://github.com/afzal95)
- 
-
-<!--
-**hmehta051/hmehta051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Hemendra Maheta](https://github.com/hmehta051)
