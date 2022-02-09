@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Learning Full Stack Web Development Javascript and its frameworks at Masai School
 - 💼 &nbsp; I aspire to work as a full stack web developer.
 - 🌱 &nbsp; Learning more about AWS, MongoDB, Python and Typscript.
-- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Contribute in Opne source Projects<br>
+- 👯‍♂️ &nbsp;&nbsp;I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Contribute in Opne source Projects<br>
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together learn new things.
 <br/>
 - ⚡ Fun fact: Addicted to Code, Coffee and Chess.:smile:
