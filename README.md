@@ -39,7 +39,7 @@
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/hmehta051">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmehta051&show_icons=true&theme=radical" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&theme=buefy&layout=compact" />
 </a>
  </div>
 <br/>
