@@ -48,7 +48,7 @@
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="www.linkedin.com/in/hemendramaheta" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemendra%20Maheta-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hemendramaheta/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemendra%20Maheta-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/hmehta051" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hemendra%20Maheta-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:hmehta051@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Hemendra%20Maheta-blue?style=flat-square&logo=gmail"></a>
 </p>
