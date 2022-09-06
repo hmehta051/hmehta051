@@ -1,3 +1,9 @@
+ <a href=“https://github.com/hmehta051?tab=followers”>
+    <img src=“https://img.shields.io/github/followers/hmehta051?label=Followers&style=social” alt=“GitHub Badge”></a>
+<a href=“https://github.com/hmehta051/github-profile-views-counter”>
+    <img src=“https://komarev.com/ghpvc/?username=hmehta051”>
+</a>
+<br/>
  <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Hemendra Maheta.</h2>
  <br/>
  
