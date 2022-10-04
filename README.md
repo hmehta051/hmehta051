@@ -1,6 +1,5 @@
  <h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Hemendra Maheta.</h2>
  <br/>
- ![](https://komarev.com/ghpvc/?username=hmehta051&label=PROFILE+VIEWS)
  <div><img align="right" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 
 <h3> &nbsp;About Me </h3>  
