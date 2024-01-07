@@ -54,7 +54,7 @@
 <h3>⚙️ GitHub Analytics</h3>
 <a href="https://github.com/hmehta051">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hmehta051&show_icons=true&locale=en" alt="hmehta051" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&theme=buefy&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&theme=buefy&layout=compact" />
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmehta051&" alt="hmehta051" /></p>
