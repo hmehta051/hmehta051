@@ -51,6 +51,12 @@
 <a href="https://twitter.com/hmehta051" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Hemendra%20Maheta-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:hmehta051@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Hemendra%20Maheta-blue?style=flat-square&logo=gmail"></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmehta051&label=Profile%20views&color=0e75b6&style=flat" alt="hmehta051" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmehta051" alt="hmehta051" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmehta051&show_icons=true&locale=en" alt="hmehta051" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmehta051&" alt="hmehta051" /></p>
 
 #### &nbsp;&nbsp; Thank you for visiting my profile.
 
