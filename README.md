@@ -34,12 +34,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom) -->
 <br/>
- <div>
-<h3>⚙️ GitHub Analytics</h3>
-<a href="https://github.com/hmehta051">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmehta051&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&theme=buefy&layout=compact" />
-</a>
+
  </div>
 <br/>
 <h3>&nbsp;Visit my portfolio </h3>
@@ -54,7 +49,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmehta051&label=Profile%20views&color=0e75b6&style=flat" alt="hmehta051" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmehta051" alt="hmehta051" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmehta051&show_icons=true&locale=en" alt="hmehta051" /></p>
+
+ <div>
+<h3>⚙️ GitHub Analytics</h3>
+<a href="https://github.com/hmehta051">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hmehta051&show_icons=true&locale=en" alt="hmehta051" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmehta051&theme=buefy&layout=compact" />
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmehta051&" alt="hmehta051" /></p>
 
